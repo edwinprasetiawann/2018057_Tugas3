@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">praktikum3</string>
+    <string name="price">Price</string>
+    <string name="Harga_Cenil">Rp 25.000.000</string>
+    <string name="deskription_menu">Description : Brand New Include Box (BNIB) </string>
+    <string name="ingredients">Bahan pembuatan Air Jordan Dior menggunakan kulit terbaik dari Dior yang kemudian digabungkan dengan desain estetik dari nike</string>
+    <string name="Resep">Go to @ref_shoes</string>
+</resources>
